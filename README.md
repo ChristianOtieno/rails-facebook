@@ -25,7 +25,7 @@ Summary description of the project and its features.
 >> To get a local copy up and running follow these simple example steps.
 ***
 
-### Prerequisites
+## Prerequisites
 
 >We are using rbenv as our environment.
 > 1. rbenv version:~> 1.1.2-20-
