@@ -62,13 +62,13 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Christian Otieno**
 
 - Github: [@ChristianOtieno](https://github.com/ChristianOtieno)
 - Twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
 - Linkedin: [Christian Otieno](https://www.linkedin.com/in/christianotieno/)
 
-👤 **Author2**
+👤 **Tommy Montana**
 
 - Github: [@TommyM0ntana](https://github.com/TommyM0ntana)
 - Twitter: [@tommymo13761893](https://twitter.com/tommymo13761893)
