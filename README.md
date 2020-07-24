@@ -4,7 +4,7 @@
 
 ![screenshot](./app/assets/images/facebookclone-pic.png)
 
-Additional description about the project and its features.
+Summary description of the project and its features.
 
 ## Built With
 
@@ -21,21 +21,26 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-> **If you want to checkout the working of the code in your local machine, first off, you need to clone this repo and install the required dependencies in your system. The instructions to do this are listed below:**
+> **If you want to check out the working of the code in your local machine, first off, you need to clone this repo and install the required dependencies in your system. The instructions to do this are listed below:**
 >> To get a local copy up and running follow these simple example steps.
 ***
 
 ### Prerequisites
 
->We we are using rbenv as our environment.
->> 1. rbenv version:~> 1.1.2-20-
->> 2. Ruby version: ~> 2.6.5
->> 3. Rails knowledge.
->> 4. git knowledge.
->> 5. postgresql database installed in the local machine.
+>We are using rbenv as our environment.
+> 1. rbenv version:~> 1.1.2-20-
+> 2. Ruby version: ~> 2.6.5
+> 3. Rails knowledge.
+> 4. git knowledge.
+> 5. PostgreSQL database installed in the local machine.
 
 ***
-
+## Future features or updates/improvements
+- The upcoming updates will consist of:
+1. A revamped User login and logout interface, for easy manoeuvring.
+2. A Share option for posts on the site and more improved User interface for the platform.
+3. A sign in with other social media accounts in addition to Facebook and email, and a way to edit user profiles. 
+-
 ### Setup
 
 ```git clone git@github.com:ChristianOtieno/rails-facebook.git```
@@ -90,7 +95,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used.
+- Microverse.
 
 ## 📝 License
 
