@@ -1,10 +1,25 @@
 # Ruby on Rails Facebook-Clone Application
 
-> In this project we are building a Facebook-like social network application.
+> The project consisted of creating a social network similar to Facebook. With the implementation of Facebook's main functionalities.
+
+## Summary description of the project and its features
+**A user can:**
+1. See all users list.
+2. See selected user page with their user name and all posts written by them (the most recent posts on the top).
+3. Send a friendship invitation.
+4. See a button “Invite to friendship” next to the name of the user who is not my friend yet - on both users’ list and single-user page.
+5. See pending friendship invitations sent to me from other users.
+6. Be able to accept or reject friendships invitation.
+7. Be able to create new posts (text only).
+8. Be able to like/dislike posts (but I can like a single post only once).
+9. Be able to add comments to posts.
+10. Be able to see the “Timeline” page with posts (with several likes and comments) written by me and all my friends (the most recent posts on the top).
+
+- Timeline page is the root page of the app.
 
 ![screenshot](./app/assets/images/facebookclone-pic.png)
 
-Summary description of the project and its features.
+
 
 ## Built With
 
